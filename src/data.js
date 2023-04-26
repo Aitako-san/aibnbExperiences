@@ -2,12 +2,12 @@ const data =  [
     
     {
         id: 1,
-        title: "Lessons with Katie Boom",
-        price: 136,
+        title: "Building Resilience with Katie Boom",
+        price: 30,
         coverImg: "swimmer.jpeg",
         stats: {
-            rating: "5.0",
-            reviewCount: 28
+            rating: "4.98",
+            reviewCount: 987
         },
         location: "USA",
         openSpots: 0,
@@ -16,24 +16,24 @@ const data =  [
     {
         id: 2,
         title: "Wedding Photography",
-        price: 125,
+        price: 18,
         coverImg: "marriageCard.jpg",
         stats: {
-            rating: 4.7,
-            reviewCount: 12
+            rating: 4.68,
+            reviewCount: 35
         },
-        location: "Online",
+        location: "Poland",
         openSpots: 4,
         icon:"star.png",
     },
     {
         id: 3,
-        title: "Group Biking",
+        title: "Group Track-star training",
         price: 50,
         coverImg: "bikeCard.jpeg",
         stats: {
-            rating: 4.8,
-            reviewCount: 43
+            rating: 4.83,
+            reviewCount: 436
         },
         location: "Portugal",
         openSpots: 10,

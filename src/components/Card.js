@@ -12,11 +12,9 @@ export default function Card(props) {
     } else badgeText = "AVAILABLE"
     
     const noOpenSpots = props.openSpots === 0;
-    const isLocation = props.location === "Online" 
-                        | props.location === "USA" 
-                        | props.location === "Mexico" 
+    const isLocation = props.location === "USA" 
+                        | props.location === "Poland" 
                         | props.location === "Portugal"
-                        | props.location === "Italy"
     const isLowerUnits = badgeText === "ENDING SOON";
 
     return (
