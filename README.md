@@ -2,7 +2,8 @@ Objective:
 Develop an app with static and reusable data-driven React components to practice the setup of a React project. 
 
 Used Tools and Tech:
-1. Create React App
+1. Create React App 
+https://create-react-app.dev/
 
 2. Figma - to create design
 https://www.figma.com/
