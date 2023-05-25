@@ -1,6 +1,6 @@
 Objective:
 
-Develop an app with static and reusable data-driven React components to practice the setup of a React project. 
+Develop an app with static and reusable data-driven React components to practice the setup of a React project [based on a YT tutorial]. 
 
 <img width="540" alt="Captura de ecrã 2023-05-16, às 19 02 24" src="https://github.com/Sakura-blip/aibnbExperiences/assets/115422221/c3f938ae-e0ad-4de5-bacd-fc1218ca07da">
 
